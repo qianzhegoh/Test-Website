@@ -1,7 +1,9 @@
 ---
-title: The SSTuino can connect to the internet?!
-date: 2019-09-15
-author: Goh Qian Zhe
+layout: default
+title: Connecting the SSTuino to Internet
+nav_order: 5
+parent: Secondary 1
+has_toc: true
 ---
 
 # The SSTuino can connect to the internet?!
@@ -9,14 +11,6 @@ author: Goh Qian Zhe
 This tutorial will cover the use of the WiFi functionality on the SSTuino board. We will be using it to interface it with a online IoT plaform - Adafruit IoT. Along with Thunkable, the IoT platofrm and the SSTuino, we can essentially create your own automated sensor suite or smart home project. The SSTuino is the main interface of the sensor/controllers, and collects all the sensor data and/or controlls all connected components like LEDs, fan etc.
 
 This tutorial will require the use of the WiFi chip.
-
-## Table of Contents
-* [What is the Internet of Things (IoT) all about?](#what-is-the-internet-of-things-iot-all-about)
-* [Creating your Adafruit.io account](#creating-your-adafruitio-account)
-* [Connecting SSTuino to Adafruit.io](#connecting-sstuino-to-adafruitio)
-* [MQTT Example](#mqtt-example)
-* [Controlling your SSTuino!](#controlling-your-sstuino)
-* [Connect SSTuino to Thunkable!](#connect-sstuino-to-thunkable)
 
 ## What is the Internet of Things (IoT) all about?
 

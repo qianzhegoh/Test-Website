@@ -1,7 +1,9 @@
 ---
-title: My SSTuino can read!
-date: 2019-07-19
-author: Goh Qian Zhe
+layout: default
+title: Digital Read/Write
+nav_order: 3
+parent: Secondary 1
+has_toc: true
 ---
 
 # My SSTuino can read?!

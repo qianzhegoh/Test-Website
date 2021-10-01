@@ -1,7 +1,7 @@
 ---
-title: A brief history...and the future!
-date: 2019-07-08
-author: Goh Qian Zhe
+layout: default
+nav_exclude: true
+has_toc: false
 ---
 
 # A brief history...and the future!

@@ -1,7 +1,7 @@
 ---
-title: My first mobile app!
-date: 2019-07-08
-author: Goh Qian Zhe
+layout: default
+nav_exclude: true
+has_toc: false
 ---
 
 # My first mobile app!

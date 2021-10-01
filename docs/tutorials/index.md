@@ -18,11 +18,11 @@ Before you begin playing around with the SSTuino kit here are some things to do:
 * [Click here to setup your laptop and SSTuino kit ready for use.](gettingStarted.md)
 * [Click here to make your SSTuino come to life!](helloWorld.md)
 
-## Secondary 1 Tutorials
+## [Secondary 1 Tutorials](Sec1/index.md)
 
 This covers the lessons taught in your ICT cirriculum.
-[Sec 1 Tutorials](Sec1/index.md){: .btn .btn-purple }
+
 
 ## Additional Tutorials
 
-Coming soon!
+* [Ultra Light Wi-Fi Interface Firmware (ULWI) Setup - For advanced users only.](ULWI_gettingStarted.md)

@@ -1,7 +1,9 @@
 ---
-title: Data at my fingertips!
-date: 2019-05-29
-author: Goh Qian Zhe
+layout: default
+title: Analog Read/Write
+nav_order: 4
+parent: Secondary 1
+has_toc: true
 ---
 
 # Data at my fingertips!

@@ -1,20 +1,14 @@
 ---
+layout: default
 title: Introduction to Arduino Programming
-date: 2019-07-18
-author: Goh Qian Zhe
+nav_order: 2
+parent: Secondary 1
+has_toc: true
 ---
 
 # Introduction to Arduino Programming
 
 So, let us move on into the programming stage of the SSTuino Innovator's Kit!
-
-## Table of Contents
-
-* [Virtual Programming](#virtual-programming)
-* [Pin 13](#pin-13)
-* [Blink!](#blink)
-* [How does the code work?](#how-does-the-code-work)
-* [It WORKS!!!](#it-works)
 
 ## Virtual Programming
 

@@ -4,6 +4,7 @@ title: Secondary 1
 nav_order: 1
 parent: Tutorials
 has_children: true
+has_toc: false
 ---
 # Secondary 1 Tutorials
 

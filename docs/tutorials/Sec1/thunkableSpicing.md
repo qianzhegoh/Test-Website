@@ -1,7 +1,8 @@
 ---
-title: Spicing it up...
-date: 2019-07-08
-author: Goh Qian Zhe
+layout: default
+nav_exclude: true
+has_toc: false
+
 ---
 
 # Spicing it up...

@@ -1,7 +1,9 @@
 ---
-title: How to not burn your LEDs!
-date: 2019-07-03
-author: Goh Qian Zhe
+layout: default
+title: Electronics Basics
+nav_order: 0
+parent: Secondary 1
+has_toc: true
 ---
 
 # How to not *burn* your LEDs!
@@ -12,31 +14,11 @@ Before we go into electronics, here is what will happen when if you do not handl
 
 ## Some essentials...
 
-In your SSTunino kit, we have provided some components for you to use, and is listed inside the [parts list page](https://d3lta-v.github.io/SSTuino/tutorials/partsList.html). **Note:** If there are any components missing from the kit when you first recieve it, please approach your ICT teachers.
+In your SSTunino kit, we have provided some components for you to use, and is listed inside the [parts list page](https://d3lta-v.github.io/SSTuino/tutorials/partsList.html). 
+
+**Note:** If there are any components missing from the kit when you first recieve it, please approach your ICT teachers.
 
 This tutorial will cover the details of the components that are included in the SSTuino Kit, along with some theory behind electronics to help you to build your first circuit in the meantime. This tutorial page is very useful as you can reference to the components in the event you forget what it is.
-
-## Table of Contents
-
-* [SSTuino Board](#sstuino-board)
-* [USB C to Micro USB Cable](#usb-c-to-micro-usb-cable)
-* [CP2102 MicroUSB Serial Converter](#cp2102-microusb-serial-converter)
-* [ESP01S WiFi Chip](#esp01s-wifi-chip)
-* [The Resistor](#the-resistor)
-* [Light Emitting Diode (LED)](#light-emitting-diode-led)
-* [Breadboard](#breadboard)
-* [Wires](#wires)
-* [Push Button](#push-button)
-* [Light Dependant Resistor](#light-dependant-resistor)
-* [Buzzer](#buzzer)
-* [Potentiometer](#potentiometer)
-* [Ultrasonic Sensor](#ultrasonic-sensor)
-* [TMP36 Temperature Sensor](#tmp36-temperature-sensor)
-* [PIR Proximity Sensor](#pir-passive-infra-red-sensor)
-* [DHT11 Temperature and Humidity Sensor](#dht11-temperature-and-humidity-sensor)
-* [Servo](#9g-micro-servo)
-* [RGB LEDs](#rgb-led-common-cathode)
-* [Last but not least](#last-but-not-least)
 
 ## SSTuino Board
 
