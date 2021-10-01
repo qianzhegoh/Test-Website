@@ -1,7 +1,10 @@
 ---
+layout: default
 title: Tutorials
-date: 2019-04-18
-author: Goh Qian Zhe
+nav_order: 1
+parent: Home
+has_children: true
+has_toc: false
 ---
 
 # Tutorials

@@ -1,7 +1,9 @@
 ---
+layout: default
 title: Setup
-date: 2019-04-18
-author: Goh Qian Zhe
+nav_order: 0
+parent: Tutorials
+has_toc: true
 ---
 
 # Getting started with the SSTuino

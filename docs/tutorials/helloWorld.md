@@ -1,7 +1,9 @@
 ---
-title: Hello, World!
-date: 2019-05-26
-author: Goh Qian Zhe
+layout: default
+title: Setup
+nav_order: 1
+parent: Tutorials
+has_toc: true
 ---
 
 # Hello, World!
