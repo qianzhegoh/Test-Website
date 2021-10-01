@@ -3,6 +3,7 @@ layout: default
 title: Analog Read/Write
 nav_order: 4
 parent: Secondary 1
+grand_parent: Tutorials
 has_toc: true
 ---
 

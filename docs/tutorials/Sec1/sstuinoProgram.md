@@ -3,6 +3,7 @@ layout: default
 title: Introduction to Arduino Programming
 nav_order: 2
 parent: Secondary 1
+grand_parent: Tutorials
 has_toc: true
 ---
 
