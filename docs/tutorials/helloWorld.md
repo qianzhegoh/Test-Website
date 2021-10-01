@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setup
+title: Connecting your SSTuino
 nav_order: 1
 parent: Tutorials
 has_toc: true

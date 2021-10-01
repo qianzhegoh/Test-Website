@@ -2,7 +2,6 @@
 layout: default
 title: Tutorials
 nav_order: 1
-parent: Home
 has_children: true
 has_toc: false
 ---

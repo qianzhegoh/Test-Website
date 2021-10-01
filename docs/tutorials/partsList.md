@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Parts List
-date: 2019-04-18
-author: Goh Qian Zhe
+nav_order: 2
+has_toc: false
 ---
 
 # Parts List for the SSTuino Innovator Kit (2021)

@@ -1,7 +1,9 @@
 ---
-title: [Advanced] ULWI Setup
-date: 2019-08-28
-author: Goh Qian Zhe
+layout: default
+title: ULWI Setup
+nav_order: 1
+parent: Tutorials
+has_toc: false
 ---
 
 # Getting started with ULWI
