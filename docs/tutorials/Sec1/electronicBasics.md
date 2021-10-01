@@ -4,10 +4,20 @@ title: Electronics Basics
 nav_order: 0
 parent: Secondary 1
 grand_parent: Tutorials
-has_toc: true
+has_toc: false
 ---
 
 # How to not *burn* your LEDs!
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 Before we go into electronics, here is what will happen when if you do not handle them well.
 
