@@ -9,6 +9,17 @@ has_toc: false
 
 # Data at my fingertips!
 
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 In this tutorial, we are going to read data from various sensors, and use it to trigger certain actions. We will learn the `analogRead`, `analogWrite` functions in this tutorial too.
 
 Sensors that will be covered

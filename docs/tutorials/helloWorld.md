@@ -8,6 +8,17 @@ has_toc: false
 
 # Hello, World!
 
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 So, you have just completed the setup of your computer and familarised yourself with the SSTuino Kit. What would be the next step?
 
 **Before you begin**

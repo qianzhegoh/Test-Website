@@ -9,6 +9,17 @@ has_toc: false
 
 # Introduction to Arduino Programming
 
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 So, let us move on into the programming stage of the SSTuino Innovator's Kit!
 
 ## Virtual Programming

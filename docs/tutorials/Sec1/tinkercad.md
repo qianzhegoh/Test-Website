@@ -9,6 +9,17 @@ has_toc: false
 
 # My first circuit!
 
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 In this tutorial, we will attempt a few simple circuits with a simple to use online simulator, TinkerCAD. After which, we will apply the circuits that we have created into real circuits with components in our SSTuino Kit.
 
 
