@@ -4,7 +4,7 @@ title: Connecting the SSTuino to Internet
 nav_order: 5
 parent: Secondary 1
 grand_parent: Tutorials
-has_toc: true
+has_toc: false
 ---
 
 # The SSTuino can connect to the internet?!

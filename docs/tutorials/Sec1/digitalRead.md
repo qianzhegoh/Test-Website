@@ -4,7 +4,7 @@ title: Digital Read/Write
 nav_order: 3
 parent: Secondary 1
 grand_parent: Tutorials
-has_toc: true
+has_toc: false
 ---
 
 # My SSTuino can read?!

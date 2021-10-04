@@ -2,7 +2,6 @@
 layout: default
 nav_exclude: true
 has_toc: false
-
 ---
 
 # Spicing it up...

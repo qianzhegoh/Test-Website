@@ -2,7 +2,6 @@
 layout: default
 nav_exclude: true
 has_toc: false
-
 ---
 
 # Create your first mobile app with thunkable!

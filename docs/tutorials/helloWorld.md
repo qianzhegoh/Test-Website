@@ -3,7 +3,7 @@ layout: default
 title: Connecting your SSTuino
 nav_order: 1
 parent: Tutorials
-has_toc: true
+has_toc: false
 ---
 
 # Hello, World!

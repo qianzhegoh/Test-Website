@@ -4,7 +4,7 @@ title: My First Circuit - TinkerCAD
 nav_order: 1
 parent: Secondary 1
 grand_parent: Tutorials
-has_toc: true
+has_toc: false
 ---
 
 # My first circuit!

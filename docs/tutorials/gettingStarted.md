@@ -3,7 +3,7 @@ layout: default
 title: Setup
 nav_order: 0
 parent: Tutorials
-has_toc: true
+has_toc: false
 ---
 
 # Getting started with the SSTuino
