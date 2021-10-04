@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Advanced] ULWI Setup
+title: (Advanced) ULWI Setup
 parent: Tutorials
 nav_order: 3
 has_toc: false
