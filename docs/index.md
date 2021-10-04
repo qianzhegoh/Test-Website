@@ -30,7 +30,7 @@ Students who are interested to deveop our product further can express their inte
 
 ### Our team
 
-![The Team](https://raw.githubusercontent.com/d3lta-v/SSTuino/master/Image%20Assets/IMG_3112.jpg){: .small-image }
+![The Team](https://raw.githubusercontent.com/d3lta-v/SSTuino/master/Image%20Assets/IMG_3112.jpg){: .m-sm}
 
 *Pan Ziyue (Left) and Goh Qian Zhe*
 
