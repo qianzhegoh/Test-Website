@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Setup
-nav_order: 0
 parent: Tutorials
+nav_order: 0
 has_toc: false
 ---
 

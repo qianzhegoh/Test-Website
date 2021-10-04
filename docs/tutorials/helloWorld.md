@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Connecting your SSTuino
-nav_order: 1
 parent: Tutorials
+nav_order: 1
 has_toc: false
 ---
 
