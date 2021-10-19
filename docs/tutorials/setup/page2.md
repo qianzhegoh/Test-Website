@@ -1,3 +1,11 @@
+---
+layout: default
+title: Installation of Arduino IDE
+parent: Setup
+grand_parent: Tutorials
+nav_order: 1
+has_toc: false
+---
 # Installation of the Arduino IDE
 
 {: .no_toc }
