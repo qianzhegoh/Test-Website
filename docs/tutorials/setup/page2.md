@@ -1,4 +1,15 @@
-## Installation of the Arduino IDE
+# Installation of the Arduino IDE
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ![Arduino.cc Download Page](gettingStarted_images/Arduino_Download.png)
 
@@ -14,7 +25,7 @@ After download of the zip file from the Arduino website, simply copy the .app fi
 
 In any event the system asks you whether to open the app, just click open.
 
-### Installation of the SSTuino Companion Library
+## Installation of the SSTuino Companion Library
 
 We have some additional examples that are specially catered for the SSTuino. 
 
