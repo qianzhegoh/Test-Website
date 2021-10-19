@@ -15,7 +15,7 @@ Tutorials can help you get started with using your SSTuino, or bring you further
 Before you begin playing around with the SSTuino kit here are some things to do:
 
 * [Click here to access list of items provided in your kit.](partsList.md)
-* [Click here to setup your laptop and SSTuino kit ready for use.](gettingStarted.md)
+* [Click here to setup your laptop and SSTuino kit ready for use.](setup/index.md)
 * [Click here to make your SSTuino come to life!](helloWorld.md)
 
 ## [Secondary 1 Tutorials](Sec1/index.md)
