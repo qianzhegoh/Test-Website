@@ -1,6 +1,6 @@
 # Build Settings
 markdown: kramdown
-remote_theme: pmarsceill/just-the-docs/pull/462
+remote_theme: https://github.com/pmarsceill/just-the-docs/pull/462
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
