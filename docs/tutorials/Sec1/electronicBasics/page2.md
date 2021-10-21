@@ -30,7 +30,7 @@ The force that enables the electric charge to move, or the potential energy is *
 
 In the circuit, there is bound to be some "friction" that resists the movement of electric charge, and that is **resistance**, expressed in Ohms (Ω). 
 
-![ohmLawTable](https://www.allaboutcircuits.com/uploads/articles/units-measurement-electrical-current.png){: .medium-image }
+![ohmLawTable](https://www.allaboutcircuits.com/uploads/articles/units-measurement-electrical-current.png)
 
 Resistors are essential in every circuit. They limit the flow of current in your circuit so *hopefully* there are no burnt components. 
 
@@ -47,23 +47,29 @@ For generic resistors, there is generally two types of resistors: Carbon Composi
 
 The resistors provided in the kit is metal oxide resistors and have values of 330 Ohm and 10K Ohm. You can read the values of the resistor from the colour band on the component.
 
-![330Ohm](partsList_images/330-ohm.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/330-ohm.jpg" width="300" />
+</p>
 
 This is a **330 Ohm** resistor.
 
-![10KOhm](partsList_images/10KOhm.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/10KOhm.jpg" width="300" />
+</p>
 
 This is a **10K Ohm** resistor.
 
 If you are wondering how to read the values of resistors, refer to the infograpic below:
 
-![resistorChart](partsList_images/Resistors.png)
+![resistorChart](https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/Resistors.png)
 
 ## Light Emitting Diode (LED)
 
 Somehow or another, you would realise that you would need something to light up! Say hello to the LED! LEDs are small, efficient lightbulbs (that are rather bright). They are found in a large variety of devices like mobile phones, computer screens, the headlamps of the car and even spotlights!
 
-![RGB LED](partsList_images/LED.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/LED.jpeg" width="300" />
+</p>
 
 So, you might be wondering how should you place an LED in a circuit? Here are the 3 most important things to take note:
 
@@ -91,7 +97,9 @@ So to prevent tragic things like this from happening, we introduce resistors int
 
 Let us assume that we have some LEDs, resistors and a power source. Without any knowledge about datasheets and calculation, how should we go about connecting them together?
 
-![connection](https://cdn.sparkfun.com/assets/6/e/8/3/c/51f93d85757b7f2049270817.png){: .medium-image }
+<p align="center">
+  <img src="https://cdn.sparkfun.com/assets/6/e/8/3/c/51f93d85757b7f2049270817.png" width="300" />
+</p>
 
 It is that simple.
 

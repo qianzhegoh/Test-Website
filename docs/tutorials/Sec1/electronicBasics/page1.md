@@ -58,7 +58,9 @@ The USB C to Micro USB Cable is a unique cable that helps you connect your USB C
 
 ## NEU (New Enhanced UART) CP2102
 
-![MicroUSB CP2102](partsList_images/CP2102_NEU.jpeg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/CP2102_NEU.jpeg" width="300" />
+</p>
 
 The CP2102 MicroUSB Serial Converter is a very important device to have as it is the communication tool between the computer and the microcontroller (SSTuino). We designed SSTuino to have a external Serial Converter as not only is it modular, where you could change the chip in the event it is spoilt, you could also use the CP2102 to communicate with other serial devices such as the ATTiny85 or the Raspberry Pi.
 
@@ -68,7 +70,9 @@ The NEU (New Enhanced UART) is a custom designed serial converter designed by Pa
 
 ## ESP01S WiFi Chip
 
-![ESP-01S](partsList_images/esp-8266-01.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/sp-8266-01.jpg" width="300" />
+</p>
 
 The ESP01S WiFi Chip is what sets the SSTuino different from the Arduino UNO. It allows the SSTuino to be able to connect to the internet, allowing the SSTuino to have smart home, automation and internet connected sensor abilities.
 
