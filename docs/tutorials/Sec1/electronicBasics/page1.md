@@ -71,7 +71,7 @@ The NEU (New Enhanced UART) is a custom designed serial converter designed by Pa
 ## ESP01S WiFi Chip
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/sp-8266-01.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/esp-8266-01.jpg" width="300" />
 </p>
 
 The ESP01S WiFi Chip is what sets the SSTuino different from the Arduino UNO. It allows the SSTuino to be able to connect to the internet, allowing the SSTuino to have smart home, automation and internet connected sensor abilities.
