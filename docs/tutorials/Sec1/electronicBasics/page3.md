@@ -10,11 +10,15 @@ has_toc: false
 
 ## Breadboard
 
-![Breadboard](partsList_images/21025-dscn3816.jpeg){: .medium-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/21025-dscn3816.jpeg" width="300" />
+</p>
 
 So you happened to see a retangular shaped block with holes in it and wondered what it was? This block is called a **breadboard** or **prototyping board**. The breadboard is a very important part of your prototype when you develop new things!
 
-![Breadboard with circuit](partsList_images/Breadboard-Circuit-Example.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/Breadboard-Circuit-Example.jpg" width="300" />
+</p>
 
 In your ICT lessons, your teacher would go through with you on how to connect up your circuit. Moreover, you would be using TinkerCAD to simulate and view your *virtual* circuit before actually building it, preventing any (touch wood) *magic smoke*.
 
@@ -27,13 +31,17 @@ The layout of the breadboard is done such that you can assemble your circuits ea
 
 ## Wires
 
-![Wires](partsList_images/Dupont%20Wires.jpg){: .medium-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/Dupont%20Wires.jpg" width="300" />
+</p>
 
 Wires are the most important part of your circuit. Without them, you would not be able to have electricity flowing through your circuit as there is simply nothing connecting them together! The wires provided in the kit are Male - Male Dupont wires (*I dont think I have to explain why the ends of the wire is male, right?* *wink*), and are the right size for you to be able to connect from your SSTuino to the breadboard or the component.
 
 ## Push Button
 
-![Push Buton](partsList_images/PushButton.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/PushButton.jpg" width="300" />
+</p>
 
 This push button is a very simple example of a switch. But before you connect this push button into your house's mains, please do not do so :). The push button is meant for the breadboard instead.
 
@@ -41,7 +49,9 @@ When the push button is pressed down, the circuit is closed and current would fl
 
 ## Light Dependant Resistor
 
-![LDR](partsList_images/LDR.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/LDR.jpeg" width="300" />
+</p>
 
 As the name suggests, the Light Depedant Resistor (or Photoresistor) is a component that changes resistance when the light intensity changes. For the LDR that is provided in the kit, the resistance of the LDR **decreases** when the light intensity **increases**.
 
@@ -49,7 +59,9 @@ Like a normal resistor, there is no polarity for the LDR and can be connected in
 
 ## Buzzer
 
-![Buzzer](partsList_images/146-2.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/146-2.jpg" width="300" />
+</p>
 
 This buzzer is a Piezo Buzzer. If you try to open up the buzzer, you would see that there are a few embedded components inside the buzzer. What happens when you connect it to power is that it is converted to an oscilating signal, which is amplified and applied to the piezo disc. This causes the material to expand and contract rapidly, which results in sound waves being produced. 
 
@@ -57,33 +69,42 @@ This buzzer is a Piezo Buzzer. If you try to open up the buzzer, you would see t
 
 ## Potentiometer
 
-![10K pot](partsList_images/10KPot.jpg){: .small-image-left }
-
-![Pot Sch](partsList_images/resistor-pot3.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/10KPot.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/resistor-pot3.gif" width="300" />
+</p>
 
 The potentiometer is a variable resistor, with a adjustable knob. As the knob is turned from one side to another, the resistance changes. Potentiometers are used for controlling devices, such as the brightness of the LED, and with the appropriate circuit, the speed of a motor.
 
 ## Ultrasonic Sensor
 
-![Ultrasonic](partsList_images/Ultrasonic.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/Ultrasonic.jpg" width="300" />
+</p>
 
 The ultrasonic sensor is a device that measures distance by emitting ultrasonic waves, waits for the wave the bounce back and then measure the time taken.
 
 ## TMP36 Temperature Sensor
 
-![TMP36Pinout](partsList_images/TMP36GZ_PinOut.png){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/TMP36GZ_PinOut.png" width="300" />
+</p>
 
 The TMP36 temperature sensor is a rather accurate sensor despite is low price. For more information, visit the [Adafruit Website](https://learn.adafruit.com/tmp36-temperature-sensor/overview).
 
 **Note:** You may notice that this package may resemble that of other components such as transistors. **Please do not mix them up and read the respective manuals carefully.** The component model would be marked out on the **flat** side of the component for this package. Use the model number to search for the pinouts for you to make sure you are connecting the component the right way.
 
-![TransistorPinout](partsList_images/TO92%20Pinout%20Transistor.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/TO92%20Pinout%20Transistor.jpeg" width="300" />
+</p>
 
 This shape and pinouts is called the TO-92 Package and is a very cheap and easy to manufacture method for transistors.
 
 ## PIR - Passive Infra-Red Sensor
 
-![PIR](partsList_images/PIR.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/PIR.jpg" width="300" />
+</p>
 
 PIR sensors are low-power, inexpensive and easy to deploy devices that detect if a person is in range of the sensor. A common use would be the light sensor installed in toilets that automatically turns on the lights when someone steps into the toilet.
 
@@ -91,19 +112,25 @@ To find out more about how it works, check out this detailed explanation from Ad
 
 ## DHT11 Temperature and Humidity Sensor
 
-![DHT11](partsList_images/DHT11.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/DHT11.jpg" width="300" />
+</p>
 
 The DHT11 Temperaure and Humidity sensor is an excellent hobbyist sensor, albeit with low refresh rates. It is also cheap to purchase and has relatively good accuracy for basic data logging. The data from the sensor can also be easily read from any microcontroller.
 
 ## 9g Micro Servo
 
-![servo](partsList_images/servo.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/servo.jpg" width="300" />
+</p>
 
 This Micro Servo has a lot of cool uses! Being a servo, it has precise control from 0 to 180º and is a very good component for prototyping.
 
 ## RGB LED (Common Cathode)
 
-![RGB LED](partsList_images/RGB.jpg){: .small-image-left }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3lta-v/SSTuino/master/docs/tutorials/Sec1/partsList_images/RGB.jpg" width="300" />
+</p>
 
 The RGB LED is a more complex version of the conventional coloured LED. It combines 3 LEDs (Red, Green and Blue) into one package. By configuring the intensity of the various LEDs, you can create lots of different colours from this LED.
 
