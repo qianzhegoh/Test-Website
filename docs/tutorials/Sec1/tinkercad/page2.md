@@ -8,6 +8,15 @@ has_toc: false
 
 # My First Circuit - SSTuino
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 So you have built yourself some very simple circuits. Now let us build circuits, but with an Arduino!
 
 In TinkerCAD, create a new circuit. In this new circuit, drag out an Arduino Uno, a breadboard, one resistor and a LED. Connect it in this manner, with the **Positive(+)** connect to **5V** and the **Negative(-)** connect to **GND**. 

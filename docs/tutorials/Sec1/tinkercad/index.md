@@ -103,3 +103,6 @@ Why would this happen? This is because that LEDs have a minimum voltage to light
 > Forward Voltage: Min 1.8V, Max 2.2V. Suggested current:16 - 18mA
 
 This means that the 1.5V battery would be barely able to light up the circuit, and only the 2 other battery types will be able to light up.
+
+## Next Chapter
+[My First Circuit - SSTuino](page2.md)
