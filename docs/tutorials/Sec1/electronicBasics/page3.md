@@ -3,7 +3,6 @@ layout: default
 title: More Components
 nav_order: 1
 parent: Electronics Basics
-grand_parent: Secondary 1
 has_toc: false
 ---
 

@@ -3,7 +3,6 @@ layout: default
 title: Electronics Basics
 nav_order: 0
 parent: Secondary 1
-grand_parent: Tutorials
 has_children: true
 has_toc: false
 ---
