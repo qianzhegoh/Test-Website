@@ -8,15 +8,15 @@ has_toc: false
 
 # Tutorials
 
-Tutorials can help you get started with using your SSTuino, or bring you further.
+The tutorials covers on the setup and first use of the SSTuino, as well as the tutorials covered in the Sec 1 Cirriculum.
 
-## Before you start
+## Setup
 
 Before you begin playing around with the SSTuino kit here are some things to do:
 
-* [Click here to access list of items provided in your kit.](partsList.md)
-* [Click here to setup your laptop and SSTuino kit ready for use.](setup/index.md)
-* [Click here to make your SSTuino come to life!](helloWorld.md)
+* [Parts list for SSTuino Innovator's Kit](partsList.md)
+* [Setting up your learning device and SSTuino Innovator's Kit](setup/index.md)
+* [Uploading a first program to the SSTuino](helloWorld.md)
 
 ## [Secondary 1 Tutorials](Sec1/index.md)
 

@@ -9,9 +9,12 @@ has_toc: false
 # Secondary 1 Tutorials
 
 
-* [How to not *burn* your LEDs! - Explanation of components inside your SSTuino Innovator's Kit.](electronicBasics.md)
-* [My first circuit! - Setting up TinkerCAD and creating a few basic circuits without programming.](tinkercad.md)
-* [Introduction to Arduino Programming - Basic Arduino programming and some explanation.](sstuinoProgram.md)
+* [How to not *burn* your LEDs!](electronicBasics/page1.md)
+    * Explanation of components inside your SSTuino Innovator's Kit.
+* [My first circuit!](tinkercad.md)
+    * Setting up TinkerCAD and creating a few basic circuits without programming.
+* [Introduction to Arduino Programming](sstuinoProgram.md)
+    * Basic Arduino programming and some explanation.
 * [My SSTuino can read! - DigitalRead and DigitalWrite](digitalRead.md)
     * This tutorial covers:
         * Pull up resistors

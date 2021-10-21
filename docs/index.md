@@ -5,36 +5,35 @@ nav_order: 0
 has_toc: false
 ---
 
-## SSTuino Official Webpage
+# SSTuino Official Webpage
 
 ![Populated PCB](https://raw.githubusercontent.com/d3lta-v/SSTuino/master/Image%20Assets/SSTuino.png)
 
 SSTuino is an easy to use Wi-Fi enabled microcontroller, designed and fabricated by SST Alumni. Users can write programs to connect or control things over the Internet. It is derived from the SPEEEduino v1.1 with some improvements.
 
-### Documentation
+## Documentation
 
 For documentation on this project, please refer to our [Github Wiki](https://github.com/sammy0025/SSTuino/wiki) (currently WIP) for more information.
 
-For tutorials regarding SST lessons, please refer to the tutorials here:
+## Tutorials
 
-* [Tutorials](tutorials/index.md)
-* [https://sites.google.com/sst.edu.sg/sstuino/home](https://sites.google.com/sst.edu.sg/sstuino/home)
+Tutorials are located here for SST Students: [Tutorials](tutorials/index.md)
 
 ![OSHW](https://www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png)
 
 Open Source Hardware (OSHW)
 
-### Interested to make a difference?
+## Interested to make a difference?
 
 Students who are interested to deveop our product further can express their interest in **[this form](https://forms.gle/ntMWiXFDy3Ya1Pq5A)**.
 
-### Our team
+## Our team
 
 ![The Team](https://raw.githubusercontent.com/d3lta-v/SSTuino/master/Image%20Assets/IMG_3112.jpg){: .m-sm}
 
 *Pan Ziyue (Left) and Goh Qian Zhe*
 
-### Support or Contact
+## Support or Contact
 
 Pan Ziyue: [random.rrr3@gmail.com](mailto:random.rrr3@gmail.com)
 
